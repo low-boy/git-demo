@@ -9,6 +9,8 @@ package com.qf.controller;
  */
 public class TestController {
     public void test(){
+        System.err.println();
+        System.err.println("怎么回事");
         System.err.println("????");
     }
 }
