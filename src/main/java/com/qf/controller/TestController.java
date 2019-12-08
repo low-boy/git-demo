@@ -8,4 +8,7 @@ package com.qf.controller;
  * @Description:
  */
 public class TestController {
+    public void test(){
+
+    }
 }
